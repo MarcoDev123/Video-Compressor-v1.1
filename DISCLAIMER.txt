@@ -1,0 +1,72 @@
+VIDEO COMPRESSOR SOFTWARE LICENSE AND DISCLAIMER
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
+
+By installing, copying, accessing, or otherwise using Video Compressor ("the Software"), you agree to be bound by the terms of this agreement.
+
+SOFTWARE PROVIDED "AS IS"
+
+The Software is provided "AS IS" and without warranties of any kind, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, reliability, accuracy, or non-infringement.
+
+USER RESPONSIBILITY
+
+You are solely responsible for:
+
+• Selecting files for compression.
+• Verifying the quality and integrity of compressed files.
+• Maintaining backups of original files.
+• Ensuring compatibility with your intended workflow.
+• Reviewing compressed files before deleting originals.
+
+It is strongly recommended that important files be backed up before performing any compression operations.
+
+LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the developer shall not be liable for any damages arising from the use of or inability to use the Software, including but not limited to:
+
+• Data loss
+• File corruption
+• Failed compression operations
+• Quality degradation
+• Audio or video synchronization issues
+• Metadata loss
+• Business interruption
+• Loss of profits or revenue
+• Hardware or software damage
+• Direct, indirect, incidental, special, consequential, or punitive damages
+
+VIDEO PROCESSING NOTICE
+
+Video compression may result in changes to:
+
+• Video quality
+• Audio quality
+• Resolution
+• Bitrate
+• File size
+• Metadata
+• Encoding format
+
+The developer does not guarantee that compressed files will retain all original properties or quality characteristics.
+
+THIRD-PARTY COMPONENTS
+
+The Software may utilize third-party libraries and multimedia processing components. Ownership and rights to such components remain with their respective owners and licensors.
+
+NO GUARANTEE OF COMPATIBILITY
+
+The developer does not guarantee that:
+
+• All video files will compress successfully.
+• Compressed files will be compatible with every media player or device.
+• The Software will operate without interruption or error.
+• The Software will function correctly on all hardware and operating system configurations.
+
+ACCEPTANCE OF TERMS
+
+By selecting "I Agree" and continuing with the installation, you acknowledge that you have read, understood, and accepted the terms of this agreement.
+
+If you do not agree with these terms, do not install or use the Software.
+
+Copyright © 2026 Video Compressor.
+All rights reserved.
